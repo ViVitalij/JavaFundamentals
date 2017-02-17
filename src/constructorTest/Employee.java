@@ -4,7 +4,6 @@ import java.util.Random;
 
 /**
  * Created by m.losK on 2017-02-17.
- * based on Cay Horstmann's code
  */
 public class Employee {
     private static int nextId;

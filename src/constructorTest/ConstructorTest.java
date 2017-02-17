@@ -2,6 +2,7 @@ package constructorTest;
 
 /**
  * Created by m.losK on 2017-02-17.
+ * based on Cay Horstmann's code
  */
 public class ConstructorTest {
     public static void main(String[] args) {
