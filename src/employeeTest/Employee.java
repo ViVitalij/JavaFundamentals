@@ -1,11 +1,11 @@
-package employee;
+package employeeTest;
 
 import java.time.LocalDate;
 
 /**
  * Created by m.losK on 2017-02-17.
  */
-class Employee {
+public class Employee {
 
     private static int nextId = 1;
 

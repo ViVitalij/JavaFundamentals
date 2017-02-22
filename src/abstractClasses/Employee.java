@@ -26,7 +26,7 @@ public class Employee extends Person {
 
     @Override
     public String getDestricption() {
-        return String.format("employee earning %.2f PLN", salary);
+        return String.format("employeeTest earning %.2f PLN", salary);
     }
 
     public void raiseSalary(double byPercent) {

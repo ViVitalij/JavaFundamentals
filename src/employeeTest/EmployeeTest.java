@@ -1,4 +1,4 @@
-package employee;
+package employeeTest;
 
 /**
  * Created by m.losK on 2017-02-17.
